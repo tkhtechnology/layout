@@ -1,3 +1,6 @@
+# Fork changes
+Change mwc:synthesis to cctech:synthesis to support MeteorJS v3
+
 <!--
   Title: Meteor Webcomponents Layout for Meteor Polymer integration
   Description: Layout manager for polymer/webcomponents in meteor.
